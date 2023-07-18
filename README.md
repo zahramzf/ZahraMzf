@@ -1,10 +1,13 @@
-<div align="left">
+<div align="center">
   <h1>
     Hi there, <bold> this is Zahra
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+      <div align="center">
+  <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="350" height="300"/>
 </div>
-  <div align="left">
+</div>
+  <div align="center">
 You Can Reach Me Here:
       <div id="badges">
   <a href="https://www.linkedin.com/in/zahra-mozaffarian/">
